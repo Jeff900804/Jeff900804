@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeff, Chen</h1>
 <h3 align="center">I'm a postgraduate student in the Department of Electrical Engineering at National Taiwan University.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**, **Computer vision**, and **SLAM** etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
